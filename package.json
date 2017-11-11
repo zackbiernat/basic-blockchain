@@ -1,0 +1,25 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.0.4",
+    "@types/crypto-js": "^3.1.37",
+    "@types/mocha": "^2.2.44",
+    "@types/winston": "^2.3.7",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.6.1"
+  },
+  "scripts": {
+    "test": "mocha -r ts-node/register ./tests/*.test.ts"
+  },
+  "author": "",
+  "license": ""
+}

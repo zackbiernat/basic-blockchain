@@ -1,0 +1,3 @@
+run unit tests (mocha, chai):
+  npm test
+  launch debugger for unit test, BPs in unit test code
