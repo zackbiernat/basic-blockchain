@@ -1,6 +1,5 @@
 # basic-blockchain
-Basic ts implementation of core blockchain including unit test
+Basic ts implementation of core blockchain including unit test.
 
-npm install
-
+npm install<br>
 npm test
